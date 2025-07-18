@@ -36,10 +36,10 @@
 
 4. After reading the IBM documentation, you will create your own chatbot interviewer. Please create your own assistant with the following questions in order:
 
-i.  What's your favorite movie genre (e.g.,action, comedy, or sci-fi)
-ii.  Normally, where do you watch movies?
-iii.  Where do you find out about new movies coming out?
-iv.  Have you heard of the new movie "Avengers: End Game"?
+1) What's your favorite movie genre (e.g.,action, comedy, or sci-fi)
+2) Normally, where do you watch movies?
+3) Where do you find out about new movies coming out?
+4) Have you heard of the new movie "Avengers: End Game"?
    - If the answer is positive (yes), ask: “What do you know about it?”
    - If the answer is negative (no), ask “Which new movie are you looking forward to seeing?”
   
