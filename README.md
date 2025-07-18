@@ -35,10 +35,11 @@
 3. For this conversational flow in **Step 4** to work, you should have a solid understanding of special conditions (specifically using "true"), defining what the chatbot should do next, and conditional responses (if statements). These concepts can be found in the "Creating a dialogue" document. !!Please read the mentioned sections in the document before getting started!!
 
 4. After reading the IBM documentation, you will create your own chatbot interviewer. Please create your own assistant with the following questions in order:
-a. What's your favorite movie genre (e.g.,action, comedy, or sci-fi)
-b. Normally, where do you watch movies?
-c. Where do you find out about new movies coming out?
-d. Have you heard of the new movie "Avengers: End Game"?
+
+i.  What's your favorite movie genre (e.g.,action, comedy, or sci-fi)
+ii.  Normally, where do you watch movies?
+iii.  Where do you find out about new movies coming out?
+iv.  Have you heard of the new movie "Avengers: End Game"?
    - If the answer is positive (yes), ask: “What do you know about it?”
    - If the answer is negative (no), ask “Which new movie are you looking forward to seeing?”
   
